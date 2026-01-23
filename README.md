@@ -11,7 +11,7 @@ Pedido: El documento principal cuando un cliente acepta un presupuesto de alumin
 
 Línea de Pedido: El detalle de cada material solicitado.
 
-Factura: El registro contable final para el cobro del pedido.
+Estado de pedido: El Estado describe la situación actual de cada pedido ( 
 
 Relaciones y Cardinalidades
 Cliente (1) ── (N) Pedido: Un cliente fiel puede encargar varias obras o pedidos de aluminio, pero cada pedido se factura a un solo cliente.
